@@ -17,7 +17,7 @@ const Register = () => {
           <input className="btn-regular" type="submit" value="Register" />
         </form>
         <p>
-          You have already ? <Link to="/login">Login</Link>
+          You have already ? <Link to="/login">Login.</Link>
         </p>
         <div>---------------or--------------</div>
         <br />
